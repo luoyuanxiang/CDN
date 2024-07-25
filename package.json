@@ -1,6 +1,6 @@
 {
-  "name": "luoyuanxiang-static",
-  "version": "1.0.3",
+  "name": "assets",
+  "version": "0.0.0",
   "description": "个人博客公共静态资源信息",
   "main": "index.js",
   "scripts": {
@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/luoyuanxiang/luoyuanxiang-static.git"
+    "url": "git+https://github.com/luoyuanxiang/assets.git"
   },
   "author": "luoyuanxiang",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/luoyuanxiang/luoyuanxiang-static/issues"
+    "url": "https://github.com/luoyuanxiang/assets/issues"
   },
-  "homepage": "https://github.com/luoyuanxiang/luoyuanxiang-static#readme"
+  "homepage": "https://github.com/luoyuanxiang/assets#readme"
 }
