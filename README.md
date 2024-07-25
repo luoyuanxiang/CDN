@@ -1,11 +1,11 @@
-# luoyuanxiang-static
+# 个人免费图床
 个人博客公共静态资源信息
 
-域名一：https://static.luoyuanxiang.top/images/
+域名一：https://luoyuanxiang.top/assets/
 
-域名二：https://cdn.staticaly.com/gh/luoyuanxiang/luoyuanxiang-static@main/images/
+域名二：https://cdn.staticaly.com/gh/luoyuanxiang/assets@main/images/
 
-域名三：https://jsd.onmicrosoft.cn/npm/luoyuanxiang-static/images/logo/logo.png
+域名三：https://jsd.onmicrosoft.cn/npm/assets/images/logo/logo.png
 
 CDN: https://blog.anheyu.com/posts/fe76.html
 
@@ -21,4 +21,4 @@ https://unpkg.com/ # Unpkg
 
 示例：https://npm.elemecdn.com/npm/:package@:version/:file
 
-![实例图片](https://npm.elemecdn.com/npm/luoyuanxiang-static@1.0.3/images/logo/logo.png)
+![实例图片](https://luoyuanxiang.top/assets/images/logo/logo.png)
