@@ -1,6 +1,6 @@
 {
   "name": "assets-l",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "个人博客公共静态资源信息",
   "main": "index.js",
   "scripts": {
