@@ -1,6 +1,6 @@
 {
-  "name": "assets-l",
-  "version": "0.0.4",
+  "name": "luoyuanxiang-assets",
+  "version": "0.0.0",
   "description": "个人博客公共静态资源信息",
   "main": "index.js",
   "scripts": {
