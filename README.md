@@ -1,11 +1,11 @@
 # 个人免费图床
 个人博客公共静态资源信息
 
-域名一：https://luoyuanxiang.top/assets/
+域名一：https://jsd.cdn.zzko.cn/gh/luoyuanxiang/assets/img/avatar.jpg
 
-域名二：https://cdn.staticaly.com/gh/luoyuanxiang/assets@main/images/
+域名二：https://cdn.staticaly.com/gh/luoyuanxiang/assets@main/img/
 
-域名三：https://jsd.onmicrosoft.cn/npm/assets/images/logo/logo.png
+域名三：https://jsd.onmicrosoft.cn/npm/assets/img/logo/logo.png
 
 CDN: https://blog.anheyu.com/posts/fe76.html
 
