@@ -1,5 +1,5 @@
 {
-  "name": "luoyuanxiang-assets",
+  "name": "CDN",
   "version": "0.0.0",
   "description": "个人博客公共静态资源信息",
   "main": "index.js",
@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/luoyuanxiang/assets.git"
+    "url": "git+https://github.com/luoyuanxiang/CDN.git"
   },
   "author": "luoyuanxiang",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/luoyuanxiang/assets/issues"
+    "url": "https://github.com/luoyuanxiang/CDN/issues"
   },
-  "homepage": "https://github.com/luoyuanxiang/assets#readme"
+  "homepage": "https://github.com/luoyuanxiang/CDN#readme"
 }
