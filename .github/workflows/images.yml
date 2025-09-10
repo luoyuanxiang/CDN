@@ -3,11 +3,6 @@ on:
   push:
     branches:
       - main
-    paths:
-      - '**.jpg'
-      - '**.jpeg'
-      - '**.png'
-      - '**.webp'
 jobs:
   build:
     name: calibreapp/image-actions
@@ -15,17 +10,3 @@ jobs:
     steps:
       - name: Checkout Repo
         uses: actions/checkout@v3
-      - name: "🛠 压缩图片"
-        id: calibre
-        uses: calibreapp/image-actions@main
-        with:
-          githubToken: ${{ secrets.BLOG_TOKEN }}
-          compressOnly: true
-      - name: Create New Pull Request If Needed
-        if: steps.calibre.outputs.markdown != ''
-        uses: peter-evans/create-pull-request@v4
-        with:
-          title: "🛠 压缩图片"
-          branch-suffix: timestamp
-          commit-message: "🛠 压缩图片"
-          body: ${{ steps.calibre.outputs.markdown }}
